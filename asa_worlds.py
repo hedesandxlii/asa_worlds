@@ -27,7 +27,7 @@ Setup steps:
     ( git push -u origin/main )
 7. Start asa_worlds.py and let it run before starting Valheim ( python3 asa_worlds.py )
 8. Exit asa_worlds.py after exiting Valheim by pressing Ctrl+C
-9. Done! Invite your friends to clone the repo. OBS! They only have to do steps 6 and 7.
+9. Done! Invite your friends to clone the repo. OBS! They only have to do steps 7 and 8.
 
 
 P.S: SSH Authentication for GitHub is strongly recommended, as failed 
